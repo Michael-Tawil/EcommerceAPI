@@ -24,8 +24,6 @@ This project demonstrates a professional, enterprise-grade application structure
 -   **Database:** Entity Framework Core with Azure SQL
 -   **Security:** ASP.NET Core Identity, JWT (JSON Web Tokens)
 -   **API Documentation:** Swashbuckle (Swagger)
--   **Deployment:** Microsoft Azure App Service
-
 ---
 
 ## Getting Started
