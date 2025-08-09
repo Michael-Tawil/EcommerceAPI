@@ -6,14 +6,6 @@ This project demonstrates a professional, enterprise-grade application structure
 
 ---
 
-## Live Demo
-
-The latest version of this API is deployed and live on Azure. You can interact with it here:
-
-**[https://michael-todoapi-2025-fgf4b8dnatdeaxhj.australiaeast-01.azurewebsites.net/swagger/index.html](https://michael-todoapi-2025-fgf4b8dnatdeaxhj.australiaeast-01.azurewebsites.net/swagger/index.html)**
-
----
-
 ## Features
 
 -   **Secure Authentication:** Full user registration and login system built with ASP.NET Core Identity.
