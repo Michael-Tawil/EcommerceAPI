@@ -9,5 +9,10 @@ namespace EcommerceAPI.Data
     {
         public StoreContext (DbContextOptions<StoreContext> options) : base(options){}
         public DbSet<Products> Products { get; set; }
+
+        public DbSet<Cart> Cart { get; set; }
+
+
+        public DbSet<CartItem> CartItems { get; set; }
     }
 }
